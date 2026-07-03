@@ -1,0 +1,20 @@
+{
+  "rewrites": [
+    {
+      "source": "/services",
+      "destination": "/services.html"
+    },
+    {
+      "source": "/airports",
+      "destination": "/airports.html"
+    },
+    {
+      "source": "/request-service",
+      "destination": "/request-service.html"
+    },
+    {
+      "source": "/homepage-v2",
+      "destination": "/index.html"
+    }
+  ]
+}
